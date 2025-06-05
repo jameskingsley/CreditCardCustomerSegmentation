@@ -45,7 +45,6 @@ Prepare your dataset as a CSV with numeric features including at least:
 BALANCE, PURCHASES, CASH_ADVANCE, CREDIT_LIMIT, PAYMENTS.
 
 ###### Run the Streamlit app:
-* streamlit run app.py
 * Upload your CSV file via the file uploader.
 
 ###### Explore clustering results:
